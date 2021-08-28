@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Naver Shopping</string>
+    <string name="search">상품명을 입력하세요.</string>
+
 </resources>
